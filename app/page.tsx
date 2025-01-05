@@ -1,5 +1,3 @@
-import Header from "@/components/Header";
-
 export default function Home() {
   return (
    <div>
@@ -7,3 +5,11 @@ export default function Home() {
    </div>
   );
 }
+/*
+git init
+git add .
+git commit -m "first"
+git branch -M main
+git remote add origin https://github.com/AlaaTDD/AlaaTaha.git
+git push -u origin main
+*/
